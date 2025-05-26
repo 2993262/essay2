@@ -15,13 +15,12 @@ Modern telescopes are a far cry from the early designs of Galileo. " Chapt3 Mo
 https://science.nasa.gov/astrophysics/focus-area/what-are-telescopes
 
 
-Observing Instruments: Visible-Light and Radio Detectors
 
-Visible Light Detectors and Instruments:
+# Visible Light Detectors and Instruments:
 
 .Figure 1. play a vital role in contemporary astronomy. Optical telescopes such as refractors and reflectors collect and focus visible light produced by celestial objects. The first purpose of a telescope is to gather light followed by its secondary purpose of interpreting good details. Typically larger telescopes offer the best resolution and are capable of collecting the greatest amounts of light. Detectors like charge coupled devices (CCDs) are commonly found on these telescopes as they change incoming photons into electronic signals that can be processed to create images. long exposure astrophotography and deep sky photography. Astronomers are able to identify the structure, temperature, and speed of objects in space by using spectrographs which separate light into its separate wavelengths. Another needed tool for identifying events like variable stars and planets crosses is a photometer which measures the brightnes of stars over time. More detailed explanation can be found under the following link. https://courses.lumenlearning.com/suny-astronomy/chapter/visible-light-detectors-and-instruments
 
-Radio telescopes:
+# Radio telescopes:
 
 detect radio waves from many kinds of objects in space and see the universe at much longer wavelengths. Usually they are made up of big parabolic dishes that gather weak radio waves from the sky. Compared to visible light telescopes radio telescopes have less impact by atmospheric conditions and can be used day or night. They have been in the job of finding quasars, pulsars, and cosmic microwave background radiation among other astronomical events. Radio interferometry is the process by which arrays such as the Very Large Array (VLA) combine the signals from multiple dishes to create high resolution images. More detailed explanation can be found under the following link. https://public.nrao.edu/telescopes/radio-telescopes
 

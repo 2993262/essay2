@@ -28,11 +28,11 @@ detect radio waves from many kinds of objects in space and see the universe at m
 Together radio and visible-light telescopes provide identical views of the cosmos. Radio telescopes investigate the invisible universe by following the smallest signals across space and time while visible light telescopes relate the activity and structure of bright objects.
 
 
-#Observations at extraterrestrial sites outside the Earth's atmosphere
+# Observations at extraterrestrial sites outside the Earth's atmosphere
 
 The Earth’s atmosphere absorbs or bends many of the wavelengths of radiation, which is why space-based telescopes are essential for a full picture of the universe. The Hubble Space Telescope, operational since 1990, is still one of the most influential astronomical tools, providing high-resolution pictures in visible, ultraviolet and near-infrared light. In order to study wavelengths that the Earth’s surface does not see, astronomers have built unique style telescopes. Chandra X-ray Observatory for instance captures hot spots around black holes and supernova remnants. The James Webb Space Telescope (JWST) is obviously going to look through the dust and picture light from the earliest galaxies in the universe.Telescopes operating in these other portions of the electromagnetic spectrum must be positioned above Earth's atmosphere. Such telescopes are typically launched on rockets or carried into orbit by space shuttles. Some infrared telescopes are carried high into the atmosphere by balloons or airplanes like SOFIA (Stratospheric Observatory for Infrared Astronomy), which is mounted in a Boeing 747SP jetliner.
 
-#The Future of Big Telescopes
+# The Future of Big Telescopes
 
 The future of the observational part of astronomy depends on the construction of next generation ground based telescopes, such as the ELT (Extremely Large Telescope), the TMT (Thirty Meter Telescope), or the GMT (Giant Magellan Telescope). Those will offer more-detailed views of exoplanets, galaxies and dark matter.
 
@@ -40,6 +40,6 @@ These new observatories are built on mountain tops in remote areas where the air
 
 #https://science.nasa.gov/mission/sofia/?utm_source #https://www.nasa.gov/mission/chandra-x-ray-observatory/?utm_source #https://science.nasa.gov/mission/hubble/overview/the-history-of-hubble/?utm_source #https://en.wikipedia.org/wiki/Extremely_Large_Telescope?utm_source #https://en.wikipedia.org/wiki/Extremely_Large_Telescope?utm_source
 
-#conclusion
+# conclusion
 
 Telescopes have indeed illuminated the universe. Since the days of early optical telescopes to the current physical observatories deployed in space, these were the instruments that let us see an untold number of phenomena in their full cosmic glory. With telescopes that capture light we see and telescopes sensitive to radio waves, astronomers can study the universe in light of all wavelengths, and telescopes like Hubble, Chandra, and JWST break free of the atmosphere entirely. Next-generation telescopes—like the ELT, TMT and GMT—will enable researchers to study farther away galaxies, exoplanets and dark matter. And as we develop new technologies, we increase our ability to explore and make sense of the cosmos. Observatories continue to play a vital role in mankind’s never-ending quest to reveal the secrets of space and time.
